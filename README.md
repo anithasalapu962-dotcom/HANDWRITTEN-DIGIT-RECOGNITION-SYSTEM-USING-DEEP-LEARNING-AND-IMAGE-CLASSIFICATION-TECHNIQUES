@@ -1,0 +1,2 @@
+# HANDWRITTEN-DIGIT-RECOGNITION-SYSTEM-USING-DEEP-LEARNING-AND-IMAGE-CLASSIFICATION-TECHNIQUES
+Recognizing handwritten digits accurately is an important task in applications such as postal automation, bank cheque processing, form digitization, and document analysis. Traditional image processing techniques often struggle with variations in handwriting styles, image quality, and character shapes, resulting in reduced recognition accuracy. 
